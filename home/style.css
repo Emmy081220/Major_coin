@@ -1,0 +1,16 @@
+/* @media screen and  (max-width:500px) {
+
+    table{
+    }
+    table thead,table tbody tr {
+        display: flex;
+        border: 1px solid;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+    th, td{
+        width: 100%;
+    }
+
+} */
