@@ -4008,3 +4008,9 @@ footer .download_side .app_btn li a img {
     z-index: -5;
     border-radius: 30px;
 }
+
+@media screen and (max-width: 768px) {
+    .side_screen {
+        display: none;
+    }
+}
